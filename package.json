@@ -1,0 +1,16 @@
+{
+  "name": "bot-telegram",
+  "version": "1.0.0",
+  "description": "a simple telegram bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pasquale De Lucia <pasquale.delucia96@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "node-telegram-bot-api": "^0.30.0",
+    "telegraf": "^3.17.3"
+  }
+}
